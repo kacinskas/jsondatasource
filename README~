@@ -23,14 +23,4 @@ To try please login with admin/admin
 
 How to setup?
 Copy to your CakePHP app plugins dir
-Add data source config to your app database.cfg:
-public $json = array(
-		'datasource' => 'Newsreaders.JsonSource',
-		'encoding' => 'utf8',
-		'login' => 'user',
-		'password' => 'password',
-//		'persistent' => false,
-		'database' => 'jsondata.json',
-//		'prefix' => '',
-		'host' => 'localhost',
-	);
+Add data source config to your app
