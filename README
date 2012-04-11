@@ -1,0 +1,26 @@
+CakePHP Newsreaders plugin with Json Datasource
+
+What is this?
+Requirements was to create app for news subscribsion and store data in file, not DB.
+So this is result of my 1.5 days of learning CakePHP - created plugin there subscribers list is stored in JSON file
+
+Whats inside?
+I took this Array Datasource and modified to work with JSON
+Visitor can subscribe for news
+Subscribers and news list are stored in JSON file
+Administrator can login (admin/admin) and manage subscribers
+
+There is still a lot to do..
+Make bulletproof Jsondatasorce class
+Adapt data relationship
+Add some dynamics with JavaScript and Ajax for input validation and submit
+Add some custom styling
+Add more functions (unsubscribe, change news chanels, mailing and etc.) This is endless list :)
+Do more testing
+
+How to try?
+To try please login with admin/admin
+
+How to setup?
+Copy to your CakePHP app plugins dir
+Add data source config to your app

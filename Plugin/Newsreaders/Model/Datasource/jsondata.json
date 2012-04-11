@@ -1,0 +1,66 @@
+{
+    "reader":[{
+        "username":"tadas",
+        "email":"tadas@kacinskas.eu",
+        "news":["2"],
+        "updated":"2012-04-11 20:04:17",
+        "created":"2012-04-11 14:48:15",
+        "id":"871eac6fbff5f8482cd2471b4bfe05515f24cd91",
+        "updated_by":"admin"
+    },{
+        "username":"tadas1",
+        "email":"tadas1@kacinskas.eu",
+        "news":["6"],
+        "updated":"2012-04-11 14:49:33",
+        "created":"2012-04-11 14:49:33",
+        "id":"5253c94a3ae44829423b63a6ab0ade70cc86ca25",
+        "updated_by":null
+    },{
+        "username":"chuck",
+        "email":"chuck@noris.com",
+        "news":["Aliens Atack","Zombies Invasion"],
+        "updated":"2012-04-11 20:04:22",
+        "created":"2012-04-11 19:59:26",
+        "id":"17421b947e0d8aa458821d849747f4b496714ac3",
+        "updated_by":"admin"
+    },{
+        "username":"tadas",
+        "email":"tadas2@kacinskas.eu",
+        "news":["Aliens Atack"],
+        "updated":"2012-04-11 20:04:06",
+        "created":"2012-04-11 20:04:06",
+        "id":"9bde2ecc047df8a2aa96784f14d36d909cda0800",
+        "updated_by":null
+    }],
+    "newscategory":[{
+        "_id":1,
+        "name":"Lifehacks"
+    },{
+        "_id":2,
+        "name":"Science"
+    },{
+        "_id":3,
+        "name":"Web Design"
+    },{
+        "_id":4,
+        "name":"Web Development"
+    },{
+        "_id":5,
+        "name":"Cool Tools"
+    },{
+        "_id":6,
+        "name":"Fun Stuff"
+    },{
+        "_id":7,
+        "name":"Aliens Atack"
+    },{
+        "_id":8,
+        "name":"Zombies Invasion"
+    }],
+    "user":[{
+        "_id":1,
+        "username":"name",
+        "email":"emailas@test.lt",
+        "password":"123456"
+    }]
+    }
